@@ -10,7 +10,6 @@
         "src": "/(.*)",
         "dest": "app.py"
       }
-    ],
-    "files": ["films.json"]
+    ]
   }
   
